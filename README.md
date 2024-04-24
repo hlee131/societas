@@ -1,5 +1,5 @@
 # <img src="./client/public/logo.png" width="35" alt="societas logo"> Societas
-
+Random edit
 Societas is a website that creates a judgement-free zone to empower creative UW individuals to find like-minded people to make their dream and goals come true.
 
 Check out our [Figma Prototype](https://www.figma.com/file/6yX5dizljeuc0oP9LdDIOM/WINFO-Hackathon-Societas?node-id=0%3A1&t=Tcgv1oujrbZSiSCV-1)!
