@@ -11,5 +11,4 @@
   "devDependencies": {
     "prettier": "3.2.5",
     "typescript": "^5.2.2"
-  }
 }
