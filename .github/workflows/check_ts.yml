@@ -33,3 +33,4 @@ jobs:
           line-numbers: ${{steps.diff.outputs.lineNumbers}}
           output-behaviour: both
           comment-behaviour: new
+          ts-config-path: './client/tsconfig.json'
