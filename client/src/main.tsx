@@ -28,7 +28,7 @@ const queryClient = new QueryClient({
     },
   },
 });
-if () {
+if (!import.meta.env.VITE_REACT_APP_CLERK_PUBLISHABLE_KEY) {
   throw 'Missing Publishable Key';
 }
 
